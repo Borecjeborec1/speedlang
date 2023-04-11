@@ -1,0 +1,60 @@
+{
+    "germany": [
+        {
+            "path": "",
+            "name": "Lection 1",
+            "text": "By choosing Numbers, you are going to practice numbers from 1 to 100.",
+            "example": " Uno, Dos, Tres, ... , Centenar "
+        },
+        {
+            "path": "",
+            "name": "Lection 2",
+            "text": "By choosing Lection one, you are going to practice one of the most beginner friendly words.",
+            "example": " Hello, Woman, Man, etc..."
+        },
+        {
+            "path": "",
+            "name": "Lection 3",
+            "text": "By choosing Lection one, you are going to practice one of the most beginner friendly words.",
+            "example": " Hello, Woman, Man, etc..."
+        },
+        {
+            "path": "",
+            "name": "Lection 4",
+            "text": "By choosing Lection one, you are going to practice one of the most beginner friendly words.",
+            "example": " Hello, Woman, Man, etc..."
+        },
+        {
+            "path": "",
+            "name": "Lection 5",
+            "text": "By choosing Lection one, you are going to practice one of the most beginner friendly words.",
+            "example": " Hello, Woman, Man, etc..."
+        }
+    ],
+    "spanish": [
+        {
+            "path": "",
+            "name": "Numbers",
+            "text": "By choosing Numbers, you are going to practice numbers from 1 to 100.",
+            "example": " Uno, Dos, Tres, ... , Centenar "
+        },
+        {
+            "path": "",
+            "name": "Basic Phrases",
+            "text": "By choosing Lection one, you are going to practice one of the most beginner friendly words.",
+            "example": " Hello, Woman, Man, etc..."
+        },
+        {
+            "path": "",
+            "name": "Lection 1",
+            "text": "By choosing Lection one, you are going to practice one of the most beginner friendly words.",
+            "example": " Hello, Woman, Man, etc..."
+        },
+        {
+            "path": "",
+            "name": "Lection 2",
+            "text": "By choosing Lection one, you are going to practice one of the most beginner friendly words.",
+            "example": " Hello, Woman, Man, etc..."
+        }
+    ]
+}
